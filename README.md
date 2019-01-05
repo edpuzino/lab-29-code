@@ -3,15 +3,15 @@
 
 [![Build Status](https://travis-ci.com/edpuzino/lab-29-code.svg?branch=master)](https://travis-ci.com/edpuzino/lab-29-code)
 
-## Project Name
+## Project lab 29
 
-### Author: Student/Group Name
+### Author: Ed Puzino
 
 ### Links and Resources
 * [repo](https://github.com/edpuzino/lab-29-code)
 * [travis](https://travis-ci.com/edpuzino/lab-29-code)
-* [back-end](http://xyz.com)
-* [codeSandBox](https://codesandbox.io/s/135n7zjxyl)
+* [codeSandBox](https://codesandbox.io/s/135n7zjxyl) Assignment 1
+* [codeSandBox](https://codesandbox.io/s/xl0zkv2954) Assignment 2
 
 ### Modules
 #### `modulename.js`
@@ -41,4 +41,5 @@ Usage Notes or examples
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+![](./assets/lab_29_1.jpg) Assignment 1
+![](./assets/lab_29_2.jpg) Assignment 2
